@@ -1,6 +1,6 @@
 # Telegram App Unlocker Extension
 
-### Subscribe to my [Telegram channel](https://t.me/marcelkow_crypto) to get access to more software tools and updates.
+### Subscribe to my [Telegram channel] to get access to more software tools and updates.
 
 This extension unlocks Telegram apps in the web version of Telegram, allowing you to bypass certain restrictions and enjoy a full-featured experience.
 
